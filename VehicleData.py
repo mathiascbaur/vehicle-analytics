@@ -11,7 +11,7 @@ A container for extended information for a vehicle
 class C2XVehicleData ():
     
     """
-    Vehicle Data Object: A container for extended information for a C2X vehicle
+    Vehicle Data Object: A container for extended information for a V2X vehicle
     """
     
     STATUS_NONE = 0
